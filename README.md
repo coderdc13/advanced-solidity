@@ -1,8 +1,7 @@
 # advanced-solidity
-advanced solidity homework
+# Advanced Solidity Homework
 
-
-In the previous assignement, it was up ot the student-author (me, Franklin Bueno) to compose basic solidity contracts. For this assignemnt, the student author is given the task of organizing the sale of a token. This token is called PupperCoin.
+In the previous assignement, it was up ot the student-author (me, Franklin Bueno) to compose basic solidity contracts. For this assignemnt, the student author is given the task of organizing the sale of a token. This token is called PupperCoin. 
 
 
 A screenshot of the file directory is provided (below).
@@ -16,7 +15,21 @@ A screenshot of the file directory is provided (below).
 
 
 
+# Successful Construction of Coin on Ganache
 
+The PupperCoin token was first composed on the 8545 network. The step-by-step construction and successful creation is provided (below).
+
+
+
+
+
+
+
+
+# Successful Construction of Coin on Kovan Network
+
+
+The PupperCoin token was first composed on the Kovan network. The step-by-step construction and successful creation is provided (below).
 
 
 
