@@ -377,4 +377,4 @@ The PupperCoin token was first composed on the Kovan network. The step-by-step c
 
 
 
-(NB - At least 99.9999% of the original ideas for this work are from the given course materials, Instructors GS, AN, and KS, and the Tutor, Ms. LT ... In addition, because this assignment was given and completed so close to the Project III working group timeline, the student-author witnessed subitaneously the advanced solidity work of Group II Team Member, Mr. ETM... As a result, the student-author cites his work also...)
+(NB - At least 99.9999% of the original ideas for this work are from the given course materials, Instructors GS, AN, and KS, and the Tutor, Ms. LT ... also, because of the shared subject matter between the third project of Group Two and this assignment, the student-author saw the homework material and leveraged the homework material of Group Two teammate, Mr. E___ "T___" McM___ ...)
