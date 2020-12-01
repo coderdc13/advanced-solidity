@@ -1,7 +1,7 @@
 # advanced-solidity
 # Advanced Solidity Homework
 
-In the previous assignement, it was up ot the student-author (me, Franklin Bueno) to compose basic solidity contracts. For this assignemnt, the student author is given the task of organizing the sale of a token. This token is called PupperCoin. 
+In the previous assignement, it was up ot the student-author (me, Franklin Bueno) to compose basic solidity contracts. For this assignemnt, the student author is given the task of organizing the sale of a token. This token is called PupperCoin. The final successful token exchange was conducted with a token called AAA. This successful exchange is documented at the very bottom of this readme file because it is the last done.
 
 
 A screenshot of the file directory is provided (below).
@@ -330,8 +330,8 @@ The PupperCoin token was first composed on the Kovan network. The step-by-step c
 
 
 
-## Continued Success on PUP, PXP, and PZP
-The student-author continued efforts to run the crowdsale on the kovan network. These efforts were conducted with new currency names: PUP, PXP, PZP. Also, these efforts succeeded.
+## Continued Success on PUP, PXP, PZP, and AAA
+The student-author continued efforts to run the crowdsale on the kovan network. These efforts were conducted with new currency names: PUP, PXP, PZP, AAA. Also, these efforts succeeded. The AAA transaction was recorded both on metamask (fox) and on MyCrypto.
 
 
 ### PUP
@@ -904,12 +904,14 @@ The screenshots below indicate the successes with the PZP token.
 
 
 
-
 Directly above, the PZP transactions are shared. The contract numbers are provided in the etherscan screenshots. Also, the transaction numbers and identifying data are provided in the screenshots (directly above). As with PXP, the gas fees seem to be about 0.144 for deployment, about 0.005 for transaction, and about 0.004 for token purchase (from the metamask readings).
 
 
 
 
+### AAA
+
+The student author managed a successful transaction that was recorded successfully on both metamask (fox) and on MyCrypto. Screenshots (provided below) include the first botched transfer of .1 AAA. The student author thanks his classmate and Group Project Teammate, Mr. E___ "T___" McM___, for the inspiration.
 
 
 
@@ -917,7 +919,225 @@ Directly above, the PZP transactions are shared. The contract numbers are provid
 
 
 
+![text](/Screenshots/Screenshot%20(2421).png)
 
+
+
+
+![text](/Screenshots/Screenshot%20(2422).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2423).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2424).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2425).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2426).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2427).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2428).png)
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2429).png)
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2430).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2431).png)
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2432).png)
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2433).png)
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2434).png)
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2435).png)
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2436).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2437).png)
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2438).png)
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2439).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2440).png)
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2441).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2442).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2443).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2444).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2445).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2446).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2447).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2448).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2449).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2450).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2451).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2452).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2453).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2454).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2455).png)
+
+
+![text](/Screenshots/Screenshot%20(2456).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2457).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2458).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2459).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2460).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2461).png)
+
+
+
+
+![text](/Screenshots/Screenshot%20(2462).png)
+
+
+
+![text](/Screenshots/Screenshot%20(2463).png)
+
+
+
+
+
+
+The screenshots set above show the minting of the AAA coin, the possession on the specified account, and the distribution to the other specified account. Also, the screenshots show the record on metamask (fox), MyCrypto, and etherscan. Again, the idea for the exchange does not come from the student-author, but from the aforementioned classmate.
 
 
 
