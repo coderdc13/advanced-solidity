@@ -1,7 +1,17 @@
 # advanced-solidity
 # Advanced Solidity Homework
 
-In the previous assignement, it was up ot the student-author (me, Franklin Bueno) to compose basic solidity contracts. For this assignemnt, the student author is given the task of organizing the sale of a token. This token is called PupperCoin. The final successful token exchange was conducted with a token called AAA. This successful exchange is documented at the very bottom of this readme file because it is the last done.
+In the previous assignement, it was up to the student-author (me, Franklin Bueno) to compose basic solidity contracts. For this assignemnt, the student author is given the task of organizing the sale of a token. This token is called PupperCoin. The final successful token exchange was conducted with a similar token that was given the symbol AAA. This successful exchange is documented at the very bottom of this readme file because it is the last done.
+
+# Submission Specifics
+
+The process for purchasing PupperCoin (or any of the given tokens) starts with creating a smart contract on the solidity remix site. With the smart contract written as the program, the smart contract is then compiled and deployed. After this compilation and deployment, the interface of the program shows several entry points of data with corresponding buttons. The user enters data such as the name of the token, the token symbol, and the amount of the crowdsale (in wei), along with other data that is documented in the screenshots below. Then the user enters the data according to the instructions at https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-fin-pt-06-2020-u-c/tree/master/02-Homework/21-Advanced-Solidity/Instructions. Key points include entering the correct contract addresses. 
+
+Entering the correct addresses of the token sale in the mycrypto entry for the search for tokens provides access to the token through mycrypto. Adding the token to metamask also provides the user with the opportunity to distribute the token. These transactions should be tracked with the etherscan application.
+
+Information such as the token parameters, token name, crowdsale cap, and other data points are captured in the screenshots below. Also, the transactions are provided in the screenshots below. The screenshots provide the clearest depictions of the actions of the student author in the completion of this assignment.
+
+
 
 
 A screenshot of the file directory is provided (below).
