@@ -905,7 +905,7 @@ The screenshots below indicate the successes with the PZP token.
 
 
 
-Directly above, the PZP transactions are shared. The contract numbers are provided in the etherscan screenshots. Also, the transaction numbers and identifying data are provided in the screenshots (directly above).
+Directly above, the PZP transactions are shared. The contract numbers are provided in the etherscan screenshots. Also, the transaction numbers and identifying data are provided in the screenshots (directly above). As with PXP, the gas fees seem to be about 0.144 for deployment, about 0.005 for transaction, and about 0.004 for token purchase (from the metamask readings).
 
 
 
