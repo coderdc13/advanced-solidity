@@ -515,7 +515,7 @@ The screenshots below indicate the successes with the PUP token.
 ![text](/Screenshots/Screenshot%20(2299).png)
 
 
-Directly above, the PUP transactions are shared. The contract numbers are provided in the etherscan screenshots. Also, the transaction numbers and identifying data are provided in the screenshots (directly above).
+Directly above, the PUP transactions are shared. The contract numbers are provided in the etherscan screenshots. Also, the transaction numbers and identifying data are provided in the screenshots (directly above). The gas fees seem to be about 0.144 for deployment and about 0.005 for transaction.
 
 
 
