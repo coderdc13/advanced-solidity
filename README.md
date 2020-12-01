@@ -515,7 +515,7 @@ The screenshots below indicate the successes with the PUP token.
 ![text](/Screenshots/Screenshot%20(2299).png)
 
 
-Directly above, the PUP transactions are shared. The contract numbers are provided in the etherscan screenshots. Also, the transaction numbers and identifying data are provided in the screenshots (directly above). The gas fees seem to be about 0.144 for deployment and about 0.005 for transaction.
+Directly above, the PUP transactions are shared. The contract numbers are provided in the etherscan screenshots. Also, the transaction numbers and identifying data are provided in the screenshots (directly above). The gas fees seem to be about 0.144 for deployment and about 0.005 for transaction (from the metamask readings).
 
 
 
@@ -702,7 +702,7 @@ The screenshots below indicate the successes with the PXP token.
 
 
 
-Directly above, the PXP transactions are shared. The contract numbers are provided in the etherscan screenshots. Also, the transaction numbers and identifying data are provided in the screenshots (directly above).
+Directly above, the PXP transactions are shared. The contract numbers are provided in the etherscan screenshots. Also, the transaction numbers and identifying data are provided in the screenshots (directly above). The gas fees seem to be about 0.144 for deployment, about 0.005 for transaction, and about 0.004 for token purchase (from the metamask readings).
 
 
 
